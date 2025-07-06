@@ -1,1 +1,1 @@
-# Smart-Home-System-using-Wi-Fi-Bluetooth
+# Smart Home-System-using-Wi-Fi
