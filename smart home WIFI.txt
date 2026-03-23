@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-const char* ssid = "vivo 1919";
-const char* password = "123456789";
+const char* ssid = "";
+const char* password = "";
 
 const int ledPin = 2; 
 const int moter = 4; 
